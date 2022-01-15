@@ -15,6 +15,8 @@ integrated more dynamically in the application.
 The design is kept quite simple: there is a window showing the source code of a
 shader. All possible actions are accessible via the menubar.
 
-## Approach
+### Final notes
+As OpenGL is becoming less important these days, this project will not be
+developed further.
 
 © 2017 [mhahnFr](https://www.github.com/mhahnFr)
